@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Webstarted is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://webstarted.com/
+Webstarted is a LATAM‑based staff augmentation and technology recruiting firm founded in 2019. It provides near‑shore engineering talent, sales and marketing professionals, MVP development, and startup advisory services to help startups quickly scale with vetted remote talent. Based in Coral Springs, Florida, the company connects US startups with Latin American engineers.
+
+**Areas:** Staff Augmentation · Nearshore · LATAM · Recruiting · Startup Advisory
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://webstarted.com/)
+- [Documentation](https://webstarted.com/guides)
+- [Blog](https://webstarted.com/blog)
+- [Privacy policy](https://webstarted.com/privacy)
+- [GitHub](https://github.com/webstarted)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/webstarted/](https://apis.io/providers/webstarted/).
